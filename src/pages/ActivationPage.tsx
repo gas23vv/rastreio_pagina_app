@@ -159,7 +159,7 @@ export default function ActivationPage() {
               <div className="bg-blue-50 border-2 border-blue-200 rounded-lg py-3 px-4 inline-block">
                 <p className="text-xs text-gray-600 mb-1">Número do WhatsApp:</p>
                 <p className="text-lg font-bold text-blue-600">
-                  +55 (31) 98321-8279
+                  +55 (11) 97551-5049
                 </p>
               </div>
             </div>
