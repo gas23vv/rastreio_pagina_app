@@ -6,7 +6,7 @@ import ActivationPage from './pages/ActivationPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/rastreio_pagina_app">
       <AuthProvider>
         <Routes>
           <Route path="/" element={<LoginPage />} />
