@@ -3,8 +3,8 @@ import { useAuth } from '../context/AuthContext';
 
 export default function ActivationPage() {
   const { user, profile, signOut } = useAuth();
-  const whatsappNumber = '5531983218279';
-  const message = 'Olá quero fazer a liberação do meu aplicativo de rastreio veicular';
+  const whatsappNumber = '5511975515049';
+  const message = 'Olá quero fazer a liberação do meu aplicativo de rastreio veicular.';
 
   const handleWhatsAppClick = () => {
     const encodedMessage = encodeURIComponent(message);
